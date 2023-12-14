@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "spring.threads.virtual.enabled.manually",
+      "type": "java.lang.Boolean",
+      "description": "Whether to use manually tuned virtual threads.",
+      "defaultValue": false
+    }
+  ]
+}
